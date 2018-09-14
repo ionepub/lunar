@@ -1,0 +1,22 @@
+{
+    "name": "ionepub/lunar",
+    "description": "农历公历转换，阳历转阴历，阴历转阳历，今天的阴历日期 A Chinese calendar transform class",
+    "keywords": ["chinese", "calendar", "lunar", "solar", "solar2lunar", "lunar2solar", "today"],
+    "type": "library",
+    "require": {
+        "php":"~5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ionepub\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "ionepub",
+            "email": "1577628623@qq.com"
+        }
+    ],
+    "homepage": "https://github.com/ionepub",
+    "license": "MIT"
+}
