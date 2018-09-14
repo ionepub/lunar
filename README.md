@@ -3,6 +3,14 @@
 农历公历转换，阳历转阴历，阴历转阳历，今天的阴历日期。
 A Chinese calendar transform class.
 
+[![Latest Stable Version](https://poser.pugx.org/ionepub/lunar/v/stable)](https://packagist.org/packages/ionepub/lunar)
+
+[![Total Downloads](https://poser.pugx.org/ionepub/lunar/downloads)](https://packagist.org/packages/ionepub/lunar)
+
+[![Latest Unstable Version](https://poser.pugx.org/ionepub/lunar/v/unstable)](https://packagist.org/packages/ionepub/lunar)
+
+[![License](https://poser.pugx.org/ionepub/lunar/license)](https://packagist.org/packages/ionepub/lunar)
+
 ## 安装
 
 ### 使用composer安装（建议）
